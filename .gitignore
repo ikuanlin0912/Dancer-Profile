@@ -1,0 +1,10 @@
+# Private source material: do not publish in the public GitHub Pages repository.
+/規格書.md
+/舞者履歷.md
+/個人照片/
+/ModelCard_2026.jpg
+/assets/hero-dancer.png
+
+# Local QA output.
+/test-results/
+/playwright-report/
